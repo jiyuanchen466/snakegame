@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>background.png</file>
+        <file>body.png</file>
+        <file>food.png</file>
+        <file>head.png</file>
+        <file>tail.png</file>
+        <file>barrier.png</file>
+        <file>diamond.png</file>
+        <file>star.png</file>
+        <file>opposite_body.png</file>
+        <file>opposite_food.png</file>
+        <file>opposite_head.png</file>
+        <file>opposite_tail.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>background_music.mp3</file>
+        <file>boom.mp3</file>
+        <file>eat.mp3</file>
+        <file>game_over.mp3</file>
+        <file>hit.mp3</file>
+        <file>win.mp3</file>
+    </qresource>
+</RCC>
